@@ -1,0 +1,93 @@
+.iii{
+    width: 40px;
+    height: 40px;
+    
+    
+    
+
+}
+.btn{
+    width: 150px;
+    
+}
+.our{
+    width: 670px;
+    font-size: 26px;
+}
+.eng{
+    width: 670px;
+    font-size: 77px;
+}
+.aaa{
+    background-image: url(business-main.jpg);
+    background-position: center center;
+    background-size: cover;
+    
+}
+.btn-primary{
+  background-color: #4274b7;
+  font-size: 15px;
+  
+}
+.btn-secondary{
+    background-color: #fff;
+    color: #686868;
+    font-size: 15px;
+
+}
+h5::before{
+
+
+}
+.ccc{
+    background-color: #f8f8f8;
+    margin-top: 60px;
+    padding-top: 100px;
+}
+.opp{
+    width: 60px;
+    height: 60px;
+    background-color: #4274b7;
+}
+.eee{
+    background-color: #f8f8f8;
+    padding: 0 100px;
+}
+.im{
+    font-size: 22.5px;
+    width: 75%;
+
+}
+.fff{
+    background-color: #4274b7;
+    color: rgba(255, 255, 255, .92);
+    margin-top: 70px;
+}
+.qwqw{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.opra{
+    background-color: #f8f8f9;
+    padding-top: 100px;
+    padding-bottom: 120px;
+    margin-top:50px ;
+}
+.bag{
+    background-color: #4274b7;
+    color: rgba(255, 255, 255, .92);
+    border: none;
+}
+.hhh{
+    padding: 50px 0;
+    background-color: #162231;
+    color: #58606b;
+}
+.whi{
+    color: #f8f8f8;
+}
+.jjj{
+    padding-top: 25px;
+    background-color: #121b25;
+    color: #797979;
+}
